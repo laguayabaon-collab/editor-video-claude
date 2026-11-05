@@ -76,10 +76,10 @@ python -m pip install numpy Pillow
 ## 3. Clonar el repo y abrirlo en Claude Code
 
 ```bash
-git clone <URL-del-repo> editor-video
+git clone https://github.com/laguayabaon-collab/editor-video-claude.git
 ```
 ```bash
-cd editor-video
+cd editor-video-claude
 ```
 
 Abre Claude Code **en la carpeta del repo**. Así carga solo la skill `edicion-video` (`.claude/skills/`) y las
