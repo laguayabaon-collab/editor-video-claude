@@ -1,0 +1,357 @@
+{
+  "_ayuda": "Ejemplo real (reel de una agencia sobre hoteles, oct 2026). partes = tomas elegidas; frases = texto en movimiento (cada línea entra con su palabra «en»; s/m/xl = tamaño; em = palabra destacada; tono «alerta» = color de alerta); overlays = gráficos de la franja superior; branding.cta = botón del cierre y placa final; branding.colores = colores de la marca (vacío = paleta por defecto de src/marca.ts).",
+  "marca": "ejemplo",
+  "formato": "9x16",
+  "keywords": [],
+  "corregir": {},
+  "branding": {
+    "logo": "logo.png",
+    "cta": {
+      "texto": "Agenda tu asesoría gratuita",
+      "web": "tusitio.com"
+    },
+    "colores": {}
+  },
+  "partes": [
+    {
+      "label": "gancho",
+      "clip": "IMG_4638.mp4",
+      "desde": 14.78,
+      "hasta": 24.1
+    },
+    {
+      "label": "solucion",
+      "clip": "IMG_4638.mp4",
+      "desde": 32.74,
+      "hasta": 39.86
+    },
+    {
+      "label": "problema",
+      "clip": "IMG_4638.mp4",
+      "desde": 57.74,
+      "hasta": 60.06
+    },
+    {
+      "label": "resultado",
+      "clip": "IMG_4638.mp4",
+      "desde": 70.56,
+      "hasta": 76.26
+    },
+    {
+      "label": "ahorro",
+      "clip": "IMG_4638.mp4",
+      "desde": 78.46,
+      "hasta": 85.1
+    },
+    {
+      "label": "cierre",
+      "clip": "IMG_4638.mp4",
+      "desde": 85.18,
+      "hasta": 89.5
+    }
+  ],
+  "frases": [
+    {
+      "parte": "gancho",
+      "lineas": [
+        {
+          "t": "Tu hotel tiene",
+          "s": "s",
+          "en": "Tu"
+        },
+        {
+          "t": "muchos sistemas",
+          "s": "xl",
+          "em": "sistemas",
+          "en": "muchos"
+        }
+      ]
+    },
+    {
+      "parte": "gancho",
+      "lineas": [
+        {
+          "t": "un PMS,",
+          "s": "m",
+          "em": "PMS",
+          "en": "un"
+        },
+        {
+          "t": "un CRM,",
+          "s": "m",
+          "em": "CRM",
+          "en": {
+            "palabra": "un",
+            "n": 2
+          }
+        },
+        {
+          "t": "una página web",
+          "s": "m",
+          "em": "web",
+          "en": "una"
+        }
+      ]
+    },
+    {
+      "parte": "gancho",
+      "lineas": [
+        {
+          "t": "y conexiones con",
+          "s": "s",
+          "en": "y"
+        },
+        {
+          "t": "plataformas OTA",
+          "s": "xl",
+          "em": "OTA",
+          "en": "plataformas"
+        }
+      ]
+    },
+    {
+      "parte": "gancho",
+      "lineas": [
+        {
+          "t": "que te cobran",
+          "s": "s",
+          "en": "que"
+        },
+        {
+          "t": "comisión",
+          "s": "xl",
+          "em": "comisión",
+          "tono": "alerta",
+          "en": "comisión"
+        },
+        {
+          "t": "por cada venta.",
+          "s": "m",
+          "en": "por"
+        }
+      ]
+    },
+    {
+      "parte": "solucion",
+      "lineas": [
+        {
+          "t": "En La Guayaba",
+          "s": "s",
+          "en": "En"
+        },
+        {
+          "t": "diseñamos un",
+          "s": "m",
+          "en": "diseñamos"
+        },
+        {
+          "t": "ecosistema",
+          "s": "xl",
+          "em": "ecosistema",
+          "en": "ecosistema"
+        }
+      ]
+    },
+    {
+      "parte": "solucion",
+      "lineas": [
+        {
+          "t": "que integra",
+          "s": "s",
+          "en": "que"
+        },
+        {
+          "t": "todas estas soluciones",
+          "s": "m",
+          "em": "soluciones",
+          "en": "todas"
+        }
+      ]
+    },
+    {
+      "parte": "solucion",
+      "lineas": [
+        {
+          "t": "y te ayuda a",
+          "s": "s",
+          "en": "y"
+        },
+        {
+          "t": "automatizar tus ventas",
+          "s": "m",
+          "em": "automatizar",
+          "en": "automatizar"
+        },
+        {
+          "t": "24/7",
+          "s": "xl",
+          "em": "24/7",
+          "en": "24/7"
+        }
+      ]
+    },
+    {
+      "parte": "problema",
+      "lineas": [
+        {
+          "t": "Tu equipo comercial",
+          "s": "s",
+          "en": "Tu"
+        },
+        {
+          "t": "trabaja de 9 a 6.",
+          "s": "xl",
+          "em": "9 a 6",
+          "en": "trabaja"
+        }
+      ]
+    },
+    {
+      "parte": "resultado",
+      "lineas": [
+        {
+          "t": "lo que permite que",
+          "s": "s",
+          "en": "lo"
+        },
+        {
+          "t": "tus ventas y tus reservas",
+          "s": "m",
+          "em": "reservas",
+          "en": "tus"
+        }
+      ]
+    },
+    {
+      "parte": "resultado",
+      "lineas": [
+        {
+          "t": "aumenten",
+          "s": "xl",
+          "em": "aumenten",
+          "en": "aumenten"
+        },
+        {
+          "t": "cada día.",
+          "s": "m",
+          "en": "cada"
+        }
+      ]
+    },
+    {
+      "parte": "ahorro",
+      "lineas": [
+        {
+          "t": "Deja de desperdiciar",
+          "s": "s",
+          "en": "Deja"
+        },
+        {
+          "t": "dinero",
+          "s": "xl",
+          "em": "dinero",
+          "tono": "alerta",
+          "en": "dinero"
+        },
+        {
+          "t": "en comisiones externas",
+          "s": "m",
+          "en": "en"
+        }
+      ]
+    },
+    {
+      "parte": "ahorro",
+      "lineas": [
+        {
+          "t": "y aumenta la",
+          "s": "s",
+          "en": "y"
+        },
+        {
+          "t": "tasa de reservas",
+          "s": "xl",
+          "em": "reservas",
+          "en": "tasa"
+        }
+      ]
+    },
+    {
+      "parte": "ahorro",
+      "lineas": [
+        {
+          "t": "que tienes cada día",
+          "s": "s",
+          "en": "que"
+        },
+        {
+          "t": "con nuestro ecosistema.",
+          "s": "m",
+          "em": "ecosistema",
+          "en": "con"
+        }
+      ]
+    },
+    {
+      "parte": "cierre",
+      "lineas": [
+        {
+          "t": "Si te interesa saber",
+          "s": "s",
+          "en": "Si"
+        },
+        {
+          "t": "cómo podemos implementarlo",
+          "s": "m",
+          "en": "cómo"
+        },
+        {
+          "t": "en tu hotel,",
+          "s": "xl",
+          "em": "hotel",
+          "en": "en"
+        }
+      ]
+    },
+    {
+      "parte": "cierre",
+      "lineas": [
+        {
+          "t": "déjanos saber.",
+          "s": "xl",
+          "em": "saber",
+          "en": "déjanos"
+        }
+      ]
+    }
+  ],
+  "overlays": [
+    {
+      "kind": "contrast",
+      "en": {
+        "parte": "ahorro",
+        "palabra": "comisiones",
+        "dt": -0.1
+      },
+      "dur": 3.5,
+      "props": {
+        "mal": "Comisiones externas",
+        "bien": "Más reservas cada día"
+      }
+    },
+    {
+      "kind": "cta",
+      "en": {
+        "parte": "cierre",
+        "palabra": "implementarlo",
+        "dt": -0.05
+      },
+      "hasta": {
+        "parte": "cierre",
+        "palabra": "saber",
+        "n": 2,
+        "dt": 0.6
+      }
+    }
+  ]
+}

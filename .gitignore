@@ -1,0 +1,31 @@
+# Llaves: nunca se suben. Solo .env.example, sin valores.
+.env
+.env.*
+!.env.example
+
+# Lo que se graba, los proyectos y los videos terminados son de cada usuario.
+material/*
+proyectos/*
+exportados/*
+!material/.gitkeep
+!proyectos/.gitkeep
+!exportados/.gitkeep
+
+# Fichas de marca reales: solo se versiona la plantilla.
+marcas/*
+!marcas/_plantilla/
+
+# Dependencias, renders y archivos de trabajo
+node_modules/
+out/
+plantilla/public/videos/*
+!plantilla/public/videos/.gitkeep
+*.log
+
+# Configuración local de Claude Code
+.claude/settings.local.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
